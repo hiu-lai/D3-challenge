@@ -5,7 +5,7 @@ Due to the repetitiveness of the data, an interactive chart using d3 has been se
 
 # Result
 
-![alt_text](images/chart_demo.gif)
+![alt_text](D3_data_journalism/images/chart_demo.gif)
 
 # Analysis
 Correlations Discovered Between Health Risks and Age, Income
